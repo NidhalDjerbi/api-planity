@@ -1,5 +1,3 @@
-# planity
-
 # create an .env file 
 
 # to start the app in dev mode 
