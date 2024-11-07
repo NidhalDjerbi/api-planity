@@ -2,4 +2,5 @@
 
 # create an .env file 
 
-# npm run start:watch to start the app in dev mode 
+# to start the app in dev mode 
+npm run start:watch 
